@@ -9,8 +9,11 @@ HTML/CSS/JavaScript: Frontend development technologies for creating the user int
 [Framework/Library Name]: (if applicable) Used for specific functionalities or structure.
 APIs: Interaction with backend APIs for data retrieval and manipulation.
 Setup Instructions
+Setup Instructions
 To run the frontend locally:
 
 Clone this repository.
-Navigate to the project directory.
-Open the index.html file in your preferred web browser.
+Navigate to the project directory: cd lost-and-found-frontend.
+Install dependencies: npm install.
+Start the server: npm start.
+Open your web browser and go to http://localhost:3000 to view the app
