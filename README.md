@@ -12,7 +12,6 @@ This repository contains the frontend code for a Lost and Found website built us
 - **Node.js:** Backend JavaScript runtime environment.
 - **Express.js:** Web application framework for Node.js used to build the backend server.
 - **HTML/CSS/JavaScript:** Frontend development technologies for creating the user interface and functionality.
-- 
 
 ## Setup Instructions
 To run the frontend locally:
